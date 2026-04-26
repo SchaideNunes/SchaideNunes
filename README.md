@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- VIDEO DO PORTFOLIO (Necessário subir o arquivo hero_new.mp4 para o seu repositório) -->
-<video src="hero_new.mp4" width="100%" autoplay loop muted></video>
+<!-- HERO VIDEO -->
+<video src="hero_new.mp4" width="100%" height="300px" style="object-fit: cover;" autoplay loop muted></video>
 
 <br />
 
-<!-- TEXTO ANIMADO EM SVG (Simulando o GSAP) -->
-<img src="header.svg" width="100%" />
+<!-- ANIMATED HEADER WITH STARS (GSAP Style) -->
+<img src="header.svg" width="100%" alt="Schaide's Space Portfolio" />
 
 <br />
 
