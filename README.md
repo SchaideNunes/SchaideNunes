@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%40+UNIASSELVI;Building+Full-Stack+Web+%26+Automation+Solutions;Power+Platform+%26+Data+Analytics+Developer;Turning+Complex+Problems+into+Elegant+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hello,+Schaide+Nunes+here!;Software+Engineering+Student;Building+Full-Stack+Web+%26+Automation+Solutions;Turning+Complex+Problems+into+Elegant+Software" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -20,12 +20,6 @@
   <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SchaideNunes&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS&labelColor=1E1B4B" alt="Profile Views" />
-  <a href="https://github.com/SchaideNunes?tab=followers"><img src="https://img.shields.io/github/followers/SchaideNunes?style=for-the-badge&logo=github&color=6D28D9&labelColor=1E1B4B" alt="Followers" /></a>
-  <a href="https://github.com/SchaideNunes?tab=repositories"><img src="https://img.shields.io/github/stars/SchaideNunes?style=for-the-badge&logo=github&color=4F46E5&labelColor=1E1B4B" alt="Stars" /></a>
-</p>
-
 </div>
 
 ---
@@ -36,13 +30,11 @@
 
 </div>
 
-I am a **Software Engineering Student and Junior Developer** based in Bahia, Brazil, passionate about building high-performance web applications, automating complex operational workflows, and transforming raw data into strategic business intelligence. Currently pursuing my degree in Software Engineering at UNIASSELVI (2025–2028), I combine strong academic foundations with hands-on industrial experience in systems automation and full-stack development.
+I am a **Software Engineering Student** based in Bahia, Brazil, passionate about building high-performance web applications, automating complex operational workflows, and transforming raw data into strategic business intelligence. Currently pursuing my degree in Software Engineering at UNIASSELVI (2025–2028), I combine strong academic foundations with hands-on industrial experience in systems automation and full-stack development.
 
 In my current role as a **Software Engineering Intern at CMOC**, I operate with a high degree of proactivity and autonomy—identifying operational bottlenecks in industrial maintenance planning (PPCM) and engineering custom corporate solutions from scratch. I specialize in leveraging **Python, Microsoft Power Platform (Power Apps & Power Automate), and VBA** to eliminate manual routines, synchronize enterprise databases, and deliver real-time analytical visibility.
 
 With a solid background as a **Freelance Web Developer**, I build responsive, modern, and intuitive Single Page Applications (SPAs) using **React, TypeScript, JavaScript, and Vite**. My frontend philosophy centers on clean UI/UX design, accessibility, and seamless RESTful API integration, delivering polished digital products tailored to diverse client needs.
-
-Driven by a continuous **Product & Process Improvement Mindset**, I excel in bridging the gap between technical engineering and business operations. Whether creating strategic Capex dashboards in **Power BI with DAX** or architecting automated data synchronization pipelines across corporate cost centers, I am dedicated to delivering elegant, reliable software solutions that drive real productivity and operational excellence.
 
 <br/>
 
