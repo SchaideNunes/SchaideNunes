@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,7C3AED,4F46E5,8B5CF6,6D28D9&height=220&section=header&text=Schaide%20Nunes&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Automation%20Developer&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn" alt="Header Wave Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,000000,0A0A14,111122,1E1B4B&height=220&section=header&text=Schaide%20Nunes&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Automation%20Developer&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn" alt="Header Wave Banner" width="100%" />
 
 <br/>
 
@@ -69,25 +69,6 @@ With a solid background as a **Freelance Web Developer**, I build responsive, mo
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,git&theme=dark" alt="Cloud & DevOps" />
 <br/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧠 Data Analytics, Automation & Technical Expertise
-
-<br/>
-
-| Domain | Proficiency | Details & Technologies |
-| :--- | :---: | :--- |
-| **System Automation & RPA** | <img src="https://img.shields.io/badge/Advanced-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Advanced"/> | End-to-end operational workflow automation using Power Automate, custom Python scripts, and Excel/VBA macros to eliminate manual data entry and human error. |
-| **Business Intelligence & Data Analytics** | <img src="https://img.shields.io/badge/Advanced-8B5CF6?style=flat-square&labelColor=1E1B4B" alt="Advanced"/> | Strategic corporate dashboard development in Power BI, complex financial data modeling with DAX and Power Query for real-time Capex and budget tracking. |
-| **Low-Code Corporate Applications** | <img src="https://img.shields.io/badge/Advanced-6D28D9?style=flat-square&labelColor=1E1B4B" alt="Advanced"/> | Designing and deploying custom enterprise management systems from scratch utilizing Microsoft Power Apps integrated with corporate data sources and SharePoint. |
-| **Full-Stack Web Development** | <img src="https://img.shields.io/badge/Proficient-4F46E5?style=flat-square&labelColor=1E1B4B" alt="Proficient"/> | Modern, responsive Single Page Applications (SPAs) and professional portfolios built with React, TypeScript, JavaScript (ES6+), and Vite. |
-| **Database Management & SQL** | <img src="https://img.shields.io/badge/Proficient-7C3AED?style=flat-square&labelColor=1E1B4B" alt="Proficient"/> | Relational database modeling, query execution, and multi-department data synchronization using SQL, PostgreSQL, and NoSQL fundamentals. |
-| **Cloud Fundamentals & Architecture** | <img src="https://img.shields.io/badge/Foundational-A855F7?style=flat-square&labelColor=1E1B4B" alt="Foundational"/> | AWS foundational services, RESTful API architecture, Git/GitHub version control workflows, Object-Oriented Programming (POO), and Agile methodologies. |
 
 </div>
 
@@ -295,26 +276,12 @@ Gained foundational corporate experience within the mining industrial sector, de
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=SchaideNunes&show_icons=true&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SchaideNunes&show_icons=true&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SchaideNunes&theme=dark&background=0D0D19&ring=8B5CF6&fire=C084FC&currStreakLabel=C084FC&stroke=6D28D9&text=E9D5FF&sideLabels=C084FC&dates=A855F7" alt="GitHub Streak" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchaideNunes&layout=compact&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false" alt="Top Languages" width="65%" />
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SchaideNunes&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=false" alt="GitHub Trophies" width="100%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SchaideNunes&layout=compact&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false" alt="Top Languages" width="65%" />
 
 <br/>
 
@@ -401,6 +368,6 @@ current_focus:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,6D28D9,8B5CF6,4F46E5,7C3AED&height=120&section=footer" alt="Footer Wave Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,1E1B4B,111122,0A0A14,000000&height=120&section=footer" alt="Footer Wave Banner" width="100%" />
 
 </div>
