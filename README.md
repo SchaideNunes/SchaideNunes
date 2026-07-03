@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,000000,0A0A14,111122,1E1B4B&height=220&section=header&text=Schaide%20Nunes&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Automation%20Developer&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn" alt="Header Wave Banner" width="100%" />
-
-<br/>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hello,+Schaide+Nunes+here!;Software+Engineering+Student;Building+Full-Stack+Web+and+Automation+Solutions;Turning+Complex+Problems+into+Elegant+Software" alt="Typing SVG" />
 
 <br/><br/>
@@ -296,20 +292,6 @@ Gained foundational corporate experience within the mining industrial sector, de
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SchaideNunes&bg_color=0D0D19&color=C084FC&line=8B5CF6&point=ffffff&area=true&hide_border=false" alt="Contribution Activity Graph" width="95%" />
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%" />
 
 <br/>
 
