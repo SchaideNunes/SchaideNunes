@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,7C3AED,4F46E5,8B5CF6,6D28D9&height=220&section=header&text=Schaide%20Nunes&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Automation%20Developer&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn" alt="Header Wave Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=18,7C3AED,4F46E5,8B5CF6,6D28D9&height=220&section=header&text=Schaide%20Nunes&fontSize=54&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20and%20Automation%20Developer&descAlign=50&descAlignY=62&descSize=20&animation=fadeIn" alt="Header Wave Banner" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hello,+Schaide+Nunes+here!;Software+Engineering+Student;Building+Full-Stack+Web+%26+Automation+Solutions;Turning+Complex+Problems+into+Elegant+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hello,+Schaide+Nunes+here!;Software+Engineering+Student;Building+Full-Stack+Web+and+Automation+Solutions;Turning+Complex+Problems+into+Elegant+Software" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -39,9 +39,9 @@ With a solid background as a **Freelance Web Developer**, I build responsive, mo
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20%7C%20Junior%20%26%20Internship%20Roles-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-Full--Stack%20Web%20Development%20%26%20Freelance-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-System%20Automation%20%26%20Data%20Analytics%20Projects-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20%7C%20Junior%20and%20Internship%20Roles-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-Full--Stack%20Web%20Development%20and%20Freelance-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
+  <img src="https://img.shields.io/badge/OPEN%20TO-System%20Automation%20and%20Data%20Analytics%20Projects-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
 </div>
 
 ---
@@ -52,22 +52,22 @@ With a solid background as a **Freelance Web Developer**, I build responsive, mo
 
 ### Languages
 <br/>
-<img src="https://skillicons.dev/icons?i=py,ts,js,sql,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,js,sql,html,css&theme=dark" alt="Languages" />
 <br/><br/>
 
 ### Frontend
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend" />
 <br/><br/>
 
 ### Backend & Databases
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql&theme=dark" alt="Backend & Databases" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Backend & Databases" />
 <br/><br/>
 
 ### Cloud, DevOps & Tooling
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,postman&theme=dark" alt="Cloud & DevOps" />
+<img src="https://skillicons.dev/icons?i=aws,git&theme=dark" alt="Cloud & DevOps" />
 <br/>
 
 </div>
@@ -222,7 +222,7 @@ Gained foundational corporate experience within the mining industrial sector, de
 
 <p>
   <img src="https://img.shields.io/badge/Corporate_Operations-7C3AED?style=flat-square&logo=microsoftoffice&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Teamwork%20%26%20Communication-8B5CF6?style=flat-square&logo=microsoftteams&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Teamwork%20and%20Communication-8B5CF6?style=flat-square&logo=microsoftteams&logoColor=white&labelColor=1E1B4B" />
   <img src="https://img.shields.io/badge/Industrial_Processes-6D28D9?style=flat-square&logo=epicgames&logoColor=white&labelColor=1E1B4B" />
 </p>
 
@@ -258,7 +258,7 @@ Gained foundational corporate experience within the mining industrial sector, de
 ### AWS & Cloud Fundamentals
 <br/>
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Foundations-6D28D9?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1E1B4B" alt="AWS Cloud" />
-<img src="https://img.shields.io/badge/Git%20%26%20GitHub-Version%20Control%20Specialist-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="Git Specialist" />
+<img src="https://img.shields.io/badge/Git%20and%20GitHub-Version%20Control%20Specialist-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="Git Specialist" />
 <br/><br/>
 
 ### Academic & Languages
@@ -278,7 +278,7 @@ Gained foundational corporate experience within the mining industrial sector, de
 <br/>
 
 <a href="https://leetcode.com/SchaideNunes/"><img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solver%20%7C%20Algorithms-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/user/schaidenunes/"><img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures%20%26%20Algorithms-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B" alt="GeeksforGeeks" /></a>
+<a href="https://www.geeksforgeeks.org/user/schaidenunes/"><img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures%20and%20Algorithms-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B" alt="GeeksforGeeks" /></a>
 <br/>
 <a href="https://www.hackerrank.com/schaidenunes"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Badges-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B" alt="HackerRank" /></a>
 <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Active%20Open%20Source%20Contributor-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub Profile" /></a>
