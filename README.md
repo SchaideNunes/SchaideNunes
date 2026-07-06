@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Hello,+Schaide+Nunes+here!;Software+Engineering+Student;Building+Full-Stack+Web+and+Automation+Solutions;Turning+Complex+Problems+into+Elegant+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+eu+sou+o+Schaide+Nunes!;Estudante+de+Engenharia+de+Software;Criando+Solu%C3%A7%C3%B5es+Web+e+Automa%C3%A7%C3%B5es;Transformando+Problemas+em+Software+Elegante" alt="Typing SVG" />
 
 <br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/B.S.-Software%20Engineering%20(2025--2028)-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Bahia,%20Brazil-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1E1B4B" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Software%20(2025--2028)-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Barrocas,%20Bahia-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1E1B4B" alt="Location Badge" />
 </p>
 
 <p align="center">
-  <a href="https://zesty-fudge-22e43b.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore%20Work-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/schaidenunes"><img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" /></a>
-  <a href="mailto:schaidenunes@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" /></a>
-  <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
+  <a href="https://schaide-nunesdev.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Explorar%20Projetos-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/schaidenunes"><img src="https://img.shields.io/badge/LinkedIn-Conectar-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" /></a>
+  <a href="mailto:schaidenunes@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" /></a>
+  <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Seguir-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -22,46 +22,46 @@
 
 <div align="center">
 
-## ⚡ About Me
+## Sobre Mim
 
 </div>
 
-I am a **Software Engineering Student** based in Bahia, Brazil, passionate about building high-performance web applications, automating complex operational workflows, and transforming raw data into strategic business intelligence. Currently pursuing my degree in Software Engineering at UNIASSELVI (2025–2028), I combine strong academic foundations with hands-on industrial experience in systems automation and full-stack development.
+Sou estudante do **4º semestre de Engenharia de Software** residente em Barrocas, Bahia, apaixonado por criar aplicações web de alto desempenho, automatizar fluxos de trabalho operacionais complexos e transformar dados brutos em inteligência corporativa estratégica. Atualmente cursando Engenharia de Software na UNIASSELVI (2025–2028), combino uma sólida base acadêmica em **POO, MVC, Metodologias Ágeis e Padrões de Projeto** com experiência prática em automação de sistemas e desenvolvimento full-stack.
 
-In my current role as a **Software Engineering Intern at CMOC**, I operate with a high degree of proactivity and autonomy—identifying operational bottlenecks in industrial maintenance planning (PPCM) and engineering custom corporate solutions from scratch. I specialize in leveraging **Python, Microsoft Power Platform (Power Apps & Power Automate), and VBA** to eliminate manual routines, synchronize enterprise databases, and deliver real-time analytical visibility.
+Em meu cargo atual como **Estagiário de Engenharia de Software na CMOC**, atuo com alto grau de proatividade e autonomia — identificando gargalos operacionais no planejamento de manutenção industrial (PPCM) e desenvolvendo soluções corporativas personalizadas do zero. Sou especializado no uso de **Python, Microsoft Power Platform (Power Apps e Power Automate) e VBA** para eliminar rotinas manuais, sincronizar bancos de dados corporativos e proporcionar visibilidade analítica em tempo real.
 
-With a solid background as a **Freelance Web Developer**, I build responsive, modern, and intuitive Single Page Applications (SPAs) using **React, TypeScript, JavaScript, and Vite**. My frontend philosophy centers on clean UI/UX design, accessibility, and seamless RESTful API integration, delivering polished digital products tailored to diverse client needs.
+Com uma sólida bagagem como **Desenvolvedor Web Freelancer**, construo Single Page Applications (SPAs) e sistemas sob medida utilizando **React, TypeScript, JavaScript, HTML, CSS e Vite**, com arquitetura **REST e MVC**. Minha filosofia no front-end é focada em design de UI/UX limpo, acessibilidade e integração fluida com APIs e bancos de dados (**SQL, PostgreSQL e NoSQL**), entregando produtos digitais refinados e sob medida para impulsionar negócios reais.
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-Software%20Engineering%20%7C%20Junior%20and%20Internship%20Roles-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-Full--Stack%20Web%20Development%20and%20Freelance-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-System%20Automation%20and%20Data%20Analytics%20Projects-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
+  <img src="https://img.shields.io/badge/ABERTO%20A-Engenharia%20de%20Software%20%7C%20J%C3%BAnior%20e%20Est%C3%A1gio-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
+  <img src="https://img.shields.io/badge/ABERTO%20A-Desenvolvimento%20Web%20Full--Stack%20e%20Freelance-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
+  <img src="https://img.shields.io/badge/ABERTO%20A-Projetos%20de%20Automa%C3%A7%C3%A3o%20e%20An%C3%A1lise%20de%20Dados-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
 </div>
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## Tecnologias
 
-### Languages
+### Linguagens
 <br/>
-<img src="https://skillicons.dev/icons?i=py,js,sql,html,css&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,sql,html,css&theme=dark" alt="Languages" />
 <br/><br/>
 
-### Frontend
+### Front-end
 <br/>
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend" />
 <br/><br/>
 
-### Backend & Databases
+### Back-end e Bancos de Dados
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Backend & Databases" />
+<img src="https://skillicons.dev/icons?i=postgres,nodejs,mongodb&theme=dark" alt="Backend & Databases" />
 <br/><br/>
 
-### Cloud, DevOps & Tooling
+### Cloud, DevOps e Ferramentas
 <br/>
 <img src="https://skillicons.dev/icons?i=aws,git&theme=dark" alt="Cloud & DevOps" />
 <br/>
@@ -72,89 +72,105 @@ With a solid background as a **Freelance Web Developer**, I build responsive, mo
 
 <div align="center">
 
-## 🚀 Featured Projects
+## Projetos em Destaque
 
 </div>
 
 <details>
-<summary><b><font size="+1">🏢 Gestão de Programações e Aderências (CMOC Enterprise System)</font></b></summary>
+<summary><b><font size="+1">Sistema de Agendamento para Barbearias (atualestilo.com)</font></b></summary>
 <br/>
 
-An enterprise-grade corporate management system engineered from scratch to automate industrial PPCM (Planejamento, Programação e Controle de Manutenção) operational workflows.
+Aplicação web de agendamento de ponta a ponta desenvolvida para modernizar a gestão de horários e atendimento de barbearias e salões.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Tecnologias | Escala | Performance | Segurança | Impacto | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Power Apps, Power Automate, SharePoint, Python, Excel/VBA | Corporate PPCM Team | 100% Elimination of Manual Tracking | Microsoft 365 RBAC & Azure AD | Automated industrial scheduling and routine reporting | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/Enterprise-Case%20Study-6D28D9?style=flat-square&logo=microsoft&logoColor=white" alt="Repo"/></a> |
+| HTML, CSS, JavaScript, REST API | Agendamento 24/7 | 46% de Crescimento no Volume de Clientes | Gestão Segura de Agenda | +30 agendamentos diários e redução drástica do trabalho manual | <a href="http://atualestilo.com"><img src="https://img.shields.io/badge/Acessar-Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a> |
 
-### Professional Project Explanation
-Identified a critical operational bottleneck in the industrial maintenance planning team where daily programming and adherence tracking were conducted manually across fragmented spreadsheets. Conceptually designed, developed, and deployed a centralized corporate application using Microsoft Power Apps. Integrated Power Automate cloud flows to process routine data submissions asynchronously, generate automated adherence reports, and notify stakeholders, dramatically increasing departmental productivity and data reliability.
+### Explicação do Projeto Profissional
+Desenvolvi uma aplicação web de agendamento de ponta a ponta utilizando HTML, CSS e JavaScript. O sistema impulsionou um **crescimento de 46% no volume de clientes** e gera **mais de 30 agendamentos diários**, automatizando a organização da agenda e reduzindo drasticamente o trabalho manual da equipe.
 </details>
 
 <br/>
 
 <details>
-<summary><b><font size="+1">📊 Strategic Capex & Budget Intelligence Dashboard</font></b></summary>
+<summary><b><font size="+1">Portfólio e Gestão para Arquiteta (milenareis-fbff1.web.app)</font></b></summary>
 <br/>
 
-An advanced Business Intelligence analytical suite developed for real-time tracking, forecasting, and consolidation of capital expenditures (Capex) and departmental budgets.
+Portfólio web profissional integrado a uma planilha automatizada que organiza e gerencia todos os negócios fechados através do site.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Tecnologias | Escala | Performance | Segurança | Impacto | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Power BI, DAX, Power Query, Python, Excel | Multi-Department Budgets | Instantaneous Interactive Visual Refresh | Row-Level Security (RLS) | Enabled data-driven executive budgeting decisions | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/Portfolio-View%20Analytics-4F46E5?style=flat-square&logo=powerbi&logoColor=white" alt="Repo"/></a> |
+| HTML5, CSS3, JavaScript, Planilhas Automatizadas | Gestão de Negócios e Leads | Carregamento Otimizado | Integração em Tempo Real | Simplificou a captação de clientes e o controle de contatos | <a href="https://milenareis-fbff1.web.app"><img src="https://img.shields.io/badge/Acessar-Website-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a> |
 
-### Professional Project Explanation
-Architected an end-to-end business intelligence solution to consolidate financial spreadsheets across multiple cost centers within the mining operations sector. Automated the data extraction, transformation, and loading (ETL) pipeline using Power Query and custom Python scripts. Developed complex DAX measures to calculate budget variances, forecasting models, and adherence ratios, providing leadership with interactive, high-level visual dashboards that cut monthly financial reporting preparation time by over 80%.
+### Explicação do Projeto Profissional
+Criei um portfólio web profissional integrado a uma planilha automatizada que organiza e gerencia todos os negócios fechados através do site, simplificando a captação de clientes e o controle de contatos.
 </details>
 
 <br/>
 
 <details>
-<summary><b><font size="+1">✂️ Barbershop & Salon Automated Booking Web Platform</font></b></summary>
+<summary><b><font size="+1">Gestão de Programações e Aderências (Sistema Corporativo CMOC)</font></b></summary>
 <br/>
 
-A responsive, modern full-stack web application designed for automated client appointment scheduling and business management for beauty and barber professionals.
+Sistema de gestão corporativa de nível empresarial desenvolvido do zero para automatizar fluxos de trabalho operacionais de PPCM (Planejamento, Programação e Controle de Manutenção) industrial.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Tecnologias | Escala | Performance | Segurança | Impacto | Repositório |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| React, TypeScript, Vite, CSS3, HTML5, REST API | 24/7 Automated Client Booking | 98+ Lighthouse Performance Score | HTTPS & Secure Token Management | Streamlined client bookings and eliminated scheduling conflicts | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-View%20Code-7C3AED?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| Power Apps, Power Automate, SharePoint, Python, Excel/VBA | Equipe Corporativa PPCM | 100% de Eliminação do Controle Manual | Microsoft 365 RBAC & Azure AD | Agendamento industrial e relatórios de rotina automatizados | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/Corporativo-Estudo%20de%20Caso-6D28D9?style=flat-square&logo=microsoft&logoColor=white" alt="Repo"/></a> |
 
-### Professional Project Explanation
-Developed as a complete freelance project to modernize scheduling operations for service-based businesses. Built a sleek, mobile-first frontend using React, TypeScript, and Vite, prioritizing rapid page loads and intuitive user navigation. Implemented dynamic state management to handle real-time service selection, professional availability calendars, and instant appointment confirmation, providing local businesses with a professional, automated 24/7 booking portal.
+### Explicação do Projeto Profissional
+Desenvolvi do zero o sistema corporativo "Gestão de Programações e Aderências" utilizando Power Apps e Power Automate, identificando ineficiências operacionais e automatizando o acompanhamento de aderência da equipe de PPCM, eliminando completamente o controle manual em planilhas fragmentadas.
 </details>
 
 <br/>
 
 <details>
-<summary><b><font size="+1">🔄 Python & VBA Cost Center Synchronization Suite</font></b></summary>
+<summary><b><font size="+1">Dashboard Estratégico de Inteligência de Capex e Orçamento</font></b></summary>
 <br/>
 
-A suite of automated robotic process automation (RPA) scripts engineered to synchronize cost center spreadsheets and generate automated control reports across enterprise departments.
+Uma suíte analítica avançada de Business Intelligence desenvolvida para acompanhamento em tempo real, previsão e consolidação de despesas de capital (Capex) e orçamentos departamentais.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
+| Tecnologias | Escala | Performance | Segurança | Impacto | Repositório |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, VBA, Excel, Power Automate | Daily Cross-Departmental Execution | Reduced Manual Routine Time by 85% | Local Encrypted Execution & Audit Logs | Achieved zero-error data synchronization across mining operations | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-View%20Code-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+| Power BI, DAX, Power Query, Python, Excel | Orçamentos Multidepartamentais | Atualização Visual Interativa Instantânea | Segurança em Nível de Linha (RLS) | Possibilitou decisões executivas de orçamento baseadas em dados | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20An%C3%A1lises-4F46E5?style=flat-square&logo=powerbi&logoColor=white" alt="Repo"/></a> |
 
-### Professional Project Explanation
-Engineered custom automation scripts to solve persistent data discrepancies between legacy departmental spreadsheets and central accounting repositories. Utilizing Python's Pandas library alongside automated Excel VBA macros, the system automatically validates cost center codes, reconciles financial entries, and triggers conditional alerts for formatting or budget anomalies. Seamlessly integrated with Power Automate to distribute daily executive summary reports directly to engineering managers.
+### Explicação do Projeto Profissional
+Criei dashboards estratégicos de Capex e Orçamentos no Power BI utilizando DAX e Power Query, consolidando dados financeiros de múltiplos centros de custo e reduzindo o tempo de preparação de relatórios mensais em mais de 80%.
+</details>
+
+<br/>
+
+<details>
+<summary><b><font size="+1">Suíte de Sincronização de Centros de Custo em Python e VBA</font></b></summary>
+<br/>
+
+Um conjunto de scripts de automação de processos robóticos (RPA) projetado para sincronizar planilhas de centros de custo e gerar relatórios automáticos de controle em departamentos corporativos.
+
+| Tecnologias | Escala | Performance | Segurança | Impacto | Repositório |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Python, Pandas, VBA, Excel, Power Automate | Execução Diária Multidepartamental | Tempo de Rotina Manual Reduzido em 85% | Execução Local Criptografada e Logs de Auditoria | Alcançou sincronização de dados com zero erro nas operações de mineração | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Ver%20C%C3%B3digo-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
+
+### Explicação do Projeto Profissional
+Automatizei a sincronização de planilhas de Centro de Custo entre múltiplas áreas da empresa e desenvolvi rotinas automáticas de relatórios com Python, Power Automate e Excel/VBA, garantindo integridade de dados e zero divergência operacional.
 </details>
 
 ---
 
 <div align="center">
 
-## 💼 Experience
+## Experiência Profissional
 
 </div>
 
 ### **Estagiário de Engenharia de Software**  
-**CMOC Brasil** | *mar/2025 – Presente*  
+**CMOC** | *mar/2025 – Presente*  
 
-Operating within the PPCM (Planejamento, Programação e Controle de Manutenção) engineering team, taking proactive initiative to identify technological opportunities and automate operational workflows.
+Identifiquei e implementei soluções tecnológicas para a equipe de PPCM por iniciativa própria, automatizando processos operacionais que antes eram feitos manualmente:
 
-* Developed from scratch the corporate application **"Gestão de Programações e Aderências"** utilizing Microsoft Power Apps and Power Automate, eliminating manual spreadsheet tracking.
-* Automatized complex departmental reports and routine team control workflows using Python scripts, Power Automate cloud flows, and advanced Excel/VBA macros.
-* Designed and deployed strategic Business Intelligence dashboards for Capex and Budget monitoring in Power BI, utilizing advanced DAX modeling and Power Query ETL pipelines.
-* Engineered automated synchronization routines for Cost Center spreadsheets across multiple corporate departments, ensuring data integrity and zero operational discrepancy.
+* **Desenvolvi do zero** o sistema corporativo "Gestão de Programações e Aderências" utilizando Power Apps e Power Automate.
+* **Automatizei relatórios** e rotinas de controle da equipe com Python, Power Automate e Excel/VBA.
+* **Criei dashboards estratégicos** de Capex e Orçamentos no Power BI utilizando DAX e Power Query.
+* **Automatizei a sincronização** de planilhas de Centro de Custo entre múltiplas áreas da empresa.
 
 <p>
   <img src="https://img.shields.io/badge/Power_Apps-7C3AED?style=flat-square&logo=powerapps&logoColor=white&labelColor=1E1B4B" />
@@ -170,12 +186,12 @@ Operating within the PPCM (Planejamento, Programação e Controle de Manutençã
 ### **Desenvolvedor Web Freelancer**  
 **Autônomo / Freelance** | *2023 – Presente*  
 
-Partnering with diverse commercial clients to architect, design, and deploy modern web applications, interactive appointment systems, and professional digital portfolios.
+Em parceria com diversos clientes comerciais para arquitetar, projetar e implementar aplicações web modernas, sistemas interativos de agendamento e portfólios digitais profissionais.
 
-* Developed custom online appointment and booking websites for barbershops and service providers, optimizing client conversion rates and scheduling efficiency.
-* Built high-performance, responsive portfolios for professionals across various industries using HTML5, modern CSS3, JavaScript, TypeScript, and React.
-* Ensured strict adherence to web accessibility standards, cross-browser compatibility, and mobile-first responsive design principles.
-* Implemented continuous deployment pipelines and hosting configurations via modern web platforms including Netlify and Vercel.
+* **Desenvolvi sistemas web de ponta a ponta**, como o Sistema de Agendamento para Barbearias (`atualestilo.com`), gerando crescimento de 46% no volume de clientes e mais de 30 agendamentos diários.
+* **Criei plataformas profissionais integradas**, como o Portfólio e Gestão para Arquiteta (`milenareis-fbff1.web.app`), automatizando a captação e o controle de leads.
+* **Apliquei arquiteturas modernas** (REST e MVC) utilizando HTML5, CSS3, JavaScript, TypeScript e React, garantindo alta acessibilidade e performance mobile-first.
+* **Implementei pipelines** de deploy contínuo e hospedagem em nuvem através de plataformas modernas como Netlify e Vercel.
 
 <p>
   <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white&labelColor=1E1B4B" />
@@ -191,32 +207,31 @@ Partnering with diverse commercial clients to architect, design, and deploy mode
 ### **Jovem Aprendiz**  
 **EquinoxGold** | *2024 – 2025*  
 
-Gained foundational corporate experience within the mining industrial sector, developing strong professional discipline, teamwork capabilities, and operational awareness.
+Minha primeira experiência em ambiente corporativo no setor de mineração, onde desenvolvi disciplina, responsabilidade e as bases do trabalho em equipe:
 
-* Actively participated in administrative and operational routines, acquiring valuable insight into large-scale industrial mining processes and corporate workflows.
-* Engaged in practical organizational activities that consolidated professional communication, document management, and cross-team collaboration skills.
-* Demonstrated strong reliability and adherence to corporate safety and operational standards in a high-performance industrial environment.
+* **Atuei em rotinas administrativas** e operacionais, adquirindo visão dos processos industriais do setor.
+* **Participei de atividades práticas** que consolidaram habilidades de comunicação e organização profissional.
 
 <p>
-  <img src="https://img.shields.io/badge/Corporate_Operations-7C3AED?style=flat-square&logo=microsoftoffice&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Teamwork%20and%20Communication-8B5CF6?style=flat-square&logo=microsoftteams&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Industrial_Processes-6D28D9?style=flat-square&logo=epicgames&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Opera%C3%A7%C3%B5es_Corporativas-7C3AED?style=flat-square&logo=microsoftoffice&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe%20e%20Comunica%C3%A7%C3%A3o-8B5CF6?style=flat-square&logo=microsoftteams&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Processos_Industriais-6D28D9?style=flat-square&logo=epicgames&logoColor=white&labelColor=1E1B4B" />
 </p>
 
 ---
 
 <div align="center">
 
-## 🏆 Achievements
+## Conquistas e Reconhecimentos
 
 <br/>
 
-| Recognition | Details & Impact |
+| Reconhecimento | Detalhes e Impacto |
 | :---: | :--- |
-| **💡 Proactive Enterprise Innovation @ CMOC** | Identified operational inefficiencies within the PPCM engineering team and autonomously engineered the "Gestão de Programações" system from scratch without prior mandate. |
-| **⚡ Operational Efficiency & RPA Excellence** | Automated critical team reporting and spreadsheet synchronization using Python and Power Automate, eliminating manual calculation errors and saving dozens of hours monthly. |
-| **🎓 Software Engineering Academic Standing** | Maintained excellent academic performance in Software Engineering at UNIASSELVI, seamlessly applying theoretical Object-Oriented Programming and system architecture to real-world industrial challenges. |
-| **🚀 Successful Freelance Digital Delivery** | Designed and deployed responsive full-stack web applications and booking systems for real-world clients, demonstrating strong entrepreneurial initiative and full-cycle development skills. |
+| **Inovação Corporativa Proativa @ CMOC** | Identifiquei ineficiências operacionais na equipe de engenharia do PPCM e desenvolvi autonomamente o sistema "Gestão de Programações" do zero, sem demanda prévia. |
+| **Eficiência Operacional & Excelência em RPA** | Automatizei relatórios críticos da equipe e a sincronização de planilhas utilizando Python e Power Automate, eliminando erros de cálculo manual e economizando dezenas de horas mensais. |
+| **Destaque Acadêmico em Engenharia de Software** | Mantive um excelente rendimento acadêmico em Engenharia de Software na UNIASSELVI, aplicando perfeitamente a programação orientada a objetos teórica e arquitetura de sistemas a desafios industriais reais. |
+| **Entrega Digital Freelance de Sucesso** | Projetei e implementei aplicações web full-stack responsivas e sistemas de agendamento para clientes reais, demonstrando forte iniciativa empreendedora e habilidades de desenvolvimento de ciclo completo. |
 
 </div>
 
@@ -224,42 +239,24 @@ Gained foundational corporate experience within the mining industrial sector, de
 
 <div align="center">
 
-## 📜 Certifications
+## Certificações e Idiomas
 
-### Microsoft & Power Platform
+### Microsoft e Power Platform
 <br/>
 <img src="https://img.shields.io/badge/Microsoft-Power%20Platform%20Fundamentals%20(PL--900)-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1E1B4B" alt="PL-900" />
 <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20Associate-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1E1B4B" alt="Power BI" />
 <br/><br/>
 
-### AWS & Cloud Fundamentals
+### AWS e Fundamentos de Cloud
 <br/>
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Foundations-6D28D9?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1E1B4B" alt="AWS Cloud" />
-<img src="https://img.shields.io/badge/Git%20and%20GitHub-Version%20Control%20Specialist-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="Git Specialist" />
+<img src="https://img.shields.io/badge/Git%20e%20GitHub-Version%20Control%20Specialist-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="Git Specialist" />
 <br/><br/>
 
-### Academic & Languages
+### Formação e Idiomas
 <br/>
-<img src="https://img.shields.io/badge/UNIASSELVI-Software%20Engineering%20Degree%20(In%20Progress)-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Software Eng" />
-<img src="https://img.shields.io/badge/English-Upper%20Intermediate%20%2F%20Advanced%20Professional-8B5CF6?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1E1B4B" alt="English" />
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧩 Coding Profiles
-
-<br/>
-
-<a href="https://leetcode.com/SchaideNunes/"><img src="https://img.shields.io/badge/LeetCode-Active%20Problem%20Solver%20%7C%20Algorithms-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B" alt="LeetCode" /></a>
-<a href="https://www.geeksforgeeks.org/user/schaidenunes/"><img src="https://img.shields.io/badge/GeeksforGeeks-Data%20Structures%20and%20Algorithms-8B5CF6?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B" alt="GeeksforGeeks" /></a>
-<br/>
-<a href="https://www.hackerrank.com/schaidenunes"><img src="https://img.shields.io/badge/HackerRank-Problem%20Solving%20Badges-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B" alt="HackerRank" /></a>
-<a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Active%20Open%20Source%20Contributor-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub Profile" /></a>
-
+<img src="https://img.shields.io/badge/UNIASSELVI-Gradua%C3%A7%C3%A3o%20em%20Engenharia%20de%20Software%20(Em%20Andamento)-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Software Eng" />
+<img src="https://img.shields.io/badge/Ingl%C3%AAs-N%C3%ADvel%20B2%20(Intermedi%C3%A1rio%20Superior)-8B5CF6?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1E1B4B" alt="Inglês B2" />
 <br/>
 
 </div>
@@ -268,7 +265,21 @@ Gained foundational corporate experience within the mining industrial sector, de
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## Perfis de Desenvolvedor
+
+<br/>
+
+<a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Contribuidor%20Ativo%20Open%20Source-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub Profile" /></a>
+
+<br/>
+
+</div>
+
+---
+
+<div align="center">
+
+## Estatísticas do GitHub
 
 <br/>
 
@@ -287,7 +298,7 @@ Gained foundational corporate experience within the mining industrial sector, de
 
 <div align="center">
 
-## 📈 Contribution Activity
+## Atividade de Contribuição
 
 <br/>
 
@@ -301,42 +312,32 @@ Gained foundational corporate experience within the mining industrial sector, de
 
 <div align="center">
 
-## 🎯 Current Focus
+## Foco Atual
 
 </div>
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced Software Engineering Architectures & Design Patterns (POO / REST)
-    - Full-Stack Web Development with React, TypeScript, Node.js & Next.js
-    - Enterprise Data Engineering & Advanced Power BI DAX Modeling
-  building:
-    - Custom low-code enterprise applications using Microsoft Power Platform
-    - Automated Robotic Process Automation (RPA) scripts with Python & VBA
-    - Modern, high-conversion web platforms & scheduling portals for freelance clients
-  exploring:
-    - Cloud infrastructure and serverless deployments on AWS & Azure
-    - Relational & NoSQL database performance optimization (PostgreSQL)
-    - Integration of AI APIs and automated workflows into business operations
-  open_to:
-    - Junior Software Engineer & IT Internship Opportunities
-    - Full-Stack Web Development & Custom System Automation Freelance Projects
-    - Data Analysis, Power BI Dashboards & Corporate Workflow Consulting
+foco_atual:
+  status_academico:
+    - Estudante do 4º semestre de Engenharia de Software
+  aprimorando_tecnologias_full_stack:
+    - HTML, CSS, React
+    - Python, Node.js
+    - AWS
 ```
 
 ---
 
 <div align="center">
 
-## 🌐 Connect
+## Contato
 
 <br/>
 
 <a href="mailto:schaidenunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-schaidenunes%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Gmail" /></a>
-<a href="https://linkedin.com/in/schaidenunes"><img src="https://img.shields.io/badge/LinkedIn-Connect%20Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" /></a>
-<a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Follow%20%40SchaideNunes-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
-<a href="https://zesty-fudge-22e43b.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore%20Projects-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/schaidenunes"><img src="https://img.shields.io/badge/LinkedIn-Conectar%20Profissionalmente-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B" alt="LinkedIn" /></a>
+<a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Seguir%20%40SchaideNunes-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
+<a href="https://schaide-nunesdev.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Explorar%20Projetos-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1E1B4B" alt="Portfolio" /></a>
 
 <br/><br/>
 
@@ -346,7 +347,7 @@ current_focus:
 
 <div align="center">
 
-### *"Simplicity is prerequisite for reliability."* — Edsger W. Dijkstra
+### *"A simplicidade é pré-requisito para a confiabilidade."* — Edsger W. Dijkstra
 
 <br/>
 
