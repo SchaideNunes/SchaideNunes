@@ -26,9 +26,11 @@
 
 <br/>
 
-<a href="https://github.com/SchaideNunes">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SchaideNunes&bg_color=00000000&color=9be9a8&line=40c463&point=ffffff&area=true&hide_border=true&animation_type=reveal_left_to_right" alt="Gráfico de Contribuições SVG Animado e Transparente" width="95%" />
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake.svg">
+  <img alt="Gráfico de Contribuições do GitHub Animado" src="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake.svg" width="95%">
+</picture>
 
 <br/>
 
