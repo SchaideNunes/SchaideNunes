@@ -26,7 +26,9 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SchaideNunes&bg_color=0D0D19&color=C084FC&line=8B5CF6&point=ffffff&area=true&hide_border=false" alt="Contribution Activity Graph" width="95%" />
+<a href="https://github.com/SchaideNunes">
+  <img src="https://ghchart.rshah.org/SchaideNunes" alt="Gráfico de Contribuições do GitHub" width="80%" />
+</a>
 
 <br/>
 
