@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+eu+sou+o+Schaide+Nunes!;Estudante+de+Engenharia+de+Software;Criando+Solu%C3%A7%C3%B5es+Web+e+Automa%C3%A7%C3%B5es;Transformando+Problemas+em+Software+Elegante" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ola,+Schaide+Nunes+aqui;Estudante+de+Engenharia+de+Software;Freelancer+Web+Developer" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -15,6 +15,20 @@
   <a href="mailto:schaidenunes@gmail.com"><img src="https://img.shields.io/badge/E--mail-Contato-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B" alt="Email" /></a>
   <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Seguir-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub" /></a>
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## Atividade de Contribuição
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SchaideNunes&bg_color=0D0D19&color=C084FC&line=8B5CF6&point=ffffff&area=true&hide_border=false" alt="Contribution Activity Graph" width="95%" />
+
+<br/>
 
 </div>
 
@@ -289,20 +303,6 @@ Minha primeira experiência em ambiente corporativo no setor de mineração, ond
 <br/><br/>
 
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SchaideNunes&layout=compact&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false" alt="Top Languages" width="65%" />
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## Atividade de Contribuição
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SchaideNunes&bg_color=0D0D19&color=C084FC&line=8B5CF6&point=ffffff&area=true&hide_border=false" alt="Contribution Activity Graph" width="95%" />
 
 <br/>
 
