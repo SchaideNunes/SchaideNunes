@@ -22,7 +22,7 @@
 
 <div align="center">
 
-## Atividade de Contribuição
+## Contribuições
 
 <br/>
 
