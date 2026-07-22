@@ -22,6 +22,10 @@
 
 <div align="center">
 
+## Atividade de Contribuição
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake.svg">
