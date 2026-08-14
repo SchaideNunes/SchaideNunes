@@ -64,24 +64,10 @@ Com uma sólida bagagem como **Desenvolvedor Web Freelancer**, construo Single P
 
 ## Tecnologias
 
-### Linguagens
 <br/>
-<img src="https://skillicons.dev/icons?i=py,js,ts,sql,html,css&theme=dark" alt="Languages" />
-<br/><br/>
 
-### Front-end
-<br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend" />
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,vite,tailwind,nodejs,postgres,mongodb,aws,git,github&theme=dark&perline=7" alt="Tecnologias" />
 
-### Back-end e Bancos de Dados
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,nodejs,mongodb&theme=dark" alt="Backend & Databases" />
-<br/><br/>
-
-### Cloud, DevOps e Ferramentas
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,git&theme=dark" alt="Cloud & DevOps" />
 <br/>
 
 </div>
