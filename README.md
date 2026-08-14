@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Software%20(2025--2028)-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Barrocas,%20Bahia-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1E1B4B" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-N%C3%ADvel%20B2%20(Intermedi%C3%A1rio%20Superior)-6D28D9?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1E1B4B" alt="Inglês B2" />
 </p>
 
 <p align="center">
@@ -236,32 +237,6 @@ Minha primeira experiência em ambiente corporativo no setor de mineração, ond
 | **Eficiência Operacional & Excelência em RPA** | Automatizei relatórios críticos da equipe e a sincronização de planilhas utilizando Python e Power Automate, eliminando erros de cálculo manual e economizando dezenas de horas mensais. |
 | **Destaque Acadêmico em Engenharia de Software** | Mantive um excelente rendimento acadêmico em Engenharia de Software na UNIASSELVI, aplicando perfeitamente a programação orientada a objetos teórica e arquitetura de sistemas a desafios industriais reais. |
 | **Entrega Digital Freelance de Sucesso** | Projetei e implementei aplicações web full-stack responsivas e sistemas de agendamento para clientes reais, demonstrando forte iniciativa empreendedora e habilidades de desenvolvimento de ciclo completo. |
-
-</div>
-
----
-
-<div align="center">
-
-## Certificações e Idiomas
-
-### Microsoft e Power Platform
-<br/>
-<img src="https://img.shields.io/badge/Microsoft-Power%20Platform%20Fundamentals%20(PL--900)-7C3AED?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=1E1B4B" alt="PL-900" />
-<img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20Associate-8B5CF6?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1E1B4B" alt="Power BI" />
-<br/><br/>
-
-### AWS e Fundamentos de Cloud
-<br/>
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Foundations-6D28D9?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=1E1B4B" alt="AWS Cloud" />
-<img src="https://img.shields.io/badge/Git%20e%20GitHub-Version%20Control%20Specialist-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="Git Specialist" />
-<br/><br/>
-
-### Formação e Idiomas
-<br/>
-<img src="https://img.shields.io/badge/UNIASSELVI-Gradua%C3%A7%C3%A3o%20em%20Engenharia%20de%20Software%20(Em%20Andamento)-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Software Eng" />
-<img src="https://img.shields.io/badge/Ingl%C3%AAs-N%C3%ADvel%20B2%20(Intermedi%C3%A1rio%20Superior)-8B5CF6?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1E1B4B" alt="Inglês B2" />
-<br/>
 
 </div>
 
