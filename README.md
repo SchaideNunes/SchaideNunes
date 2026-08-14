@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Bacharelado-Engenharia%20de%20Software%20(2025--2028)-8B5CF6?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=1E1B4B" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Barrocas,%20Bahia-7C3AED?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=1E1B4B" alt="Location Badge" />
-  <img src="https://img.shields.io/badge/Ingl%C3%AAs-N%C3%ADvel%20B2%20(Intermedi%C3%A1rio%20Superior)-6D28D9?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1E1B4B" alt="Inglês B2" />
+  <img src="https://img.shields.io/badge/Ingl%C3%AAs-N%C3%ADvel%20C1%20(Avan%C3%A7ado)-6D28D9?style=for-the-badge&logo=duolingo&logoColor=white&labelColor=1E1B4B" alt="Inglês C1" />
 </p>
 
 <p align="center">
