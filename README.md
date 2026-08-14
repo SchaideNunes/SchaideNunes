@@ -244,39 +244,6 @@ Minha primeira experiência em ambiente corporativo no setor de mineração, ond
 
 <div align="center">
 
-## Perfis de Desenvolvedor
-
-<br/>
-
-<a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Contribuidor%20Ativo%20Open%20Source-4F46E5?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B" alt="GitHub Profile" /></a>
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## Estatísticas do GitHub
-
-<br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=SchaideNunes&show_icons=true&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SchaideNunes&theme=dark&background=0D0D19&ring=8B5CF6&fire=C084FC&currStreakLabel=C084FC&stroke=6D28D9&text=E9D5FF&sideLabels=C084FC&dates=A855F7" alt="GitHub Streak" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SchaideNunes&layout=compact&theme=dark&bg_color=0D0D19&title_color=C084FC&text_color=E9D5FF&icon_color=8B5CF6&border_color=6D28D9&hide_border=false" alt="Top Languages" width="65%" />
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Foco Atual
 
 </div>
