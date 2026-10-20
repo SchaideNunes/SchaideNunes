@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ola,+Schaide+Nunes+aqui;Estudante+de+Engenharia+de+Software;Freelancer+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+Schaide+Nunes+aqui;Desenvolvedor;Engenheiro+de+Software;Web+Designer" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -45,18 +45,26 @@
 
 </div>
 
-Sou estudante do **4º semestre de Engenharia de Software** residente em Barrocas, Bahia, apaixonado por criar aplicações web de alto desempenho, automatizar fluxos de trabalho operacionais complexos e transformar dados brutos em inteligência corporativa estratégica. Atualmente cursando Engenharia de Software na UNIASSELVI (2025–2028), combino uma sólida base acadêmica em **POO, MVC, Metodologias Ágeis e Padrões de Projeto** com experiência prática em automação de sistemas e desenvolvimento full-stack.
+Sou estudante do **4º semestre de Engenharia de Software** e desenvolvedor full-stack freelancer em Barrocas, Bahia. Construo sistemas sob medida para pequenos negócios — agendamento, cobrança, cardápio digital, gestão de associados — que resolvem um problema real do cliente e rodam em produção todos os dias.
 
-Em meu cargo atual como **Estagiário de Engenharia de Software na CMOC**, atuo com alto grau de proatividade e autonomia — identificando gargalos operacionais no planejamento de manutenção industrial (PPCM) e desenvolvendo soluções corporativas personalizadas do zero. Sou especializado no uso de **Python, Microsoft Power Platform (Power Apps e Power Automate) e VBA** para eliminar rotinas manuais, sincronizar bancos de dados corporativos e proporcionar visibilidade analítica em tempo real.
+Como **Estagiário de Engenharia de Software** no setor de mineração, identifico gargalos na equipe de PPCM e automatizo por iniciativa própria o que antes era feito à mão, com **Power Apps, Power Automate, Power BI, Python e Excel/VBA**.
 
-Com uma sólida bagagem como **Desenvolvedor Web Freelancer**, construo Single Page Applications (SPAs) e sistemas sob medida utilizando **React, TypeScript, JavaScript, HTML, CSS e Vite**, com arquitetura **REST e MVC**. Minha filosofia no front-end é focada em design de UI/UX limpo, acessibilidade e integração fluida com APIs e bancos de dados (**SQL, PostgreSQL e NoSQL**), entregando produtos digitais refinados e sob medida para impulsionar negócios reais.
+No dia a dia trabalho com **React, TypeScript, Node.js, Python/FastAPI, PHP e bancos SQL/NoSQL**, com atenção a testes (TDD com Vitest e Pytest), arquitetura REST/MVC e interfaces limpas e responsivas.
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ABERTO%20A-Engenharia%20de%20Software%20%7C%20J%C3%BAnior%20e%20Est%C3%A1gio-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
-  <img src="https://img.shields.io/badge/ABERTO%20A-Desenvolvimento%20Web%20Full--Stack%20e%20Freelance-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
-  <img src="https://img.shields.io/badge/ABERTO%20A-Projetos%20de%20Automa%C3%A7%C3%A3o%20e%20An%C3%A1lise%20de%20Dados-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
+
+| <h3>+46%</h3> | <h3>30+</h3> | <h3>300+</h3> | <h3>8</h3> |
+| :---: | :---: | :---: | :---: |
+| clientes na barbearia após o sistema de agendamento | agendamentos automáticos por dia | sócios atendidos pela plataforma do Club Maravilha | clientes fechados pela arquiteta em 3 meses com o novo portfólio |
+
+<br/>
+
+<img src="https://img.shields.io/badge/ABERTO%20A-Est%C3%A1gio%20e%20J%C3%BAnior%20em%20Engenharia%20de%20Software-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
+<img src="https://img.shields.io/badge/ABERTO%20A-Projetos%20Freelance%20Full--Stack-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
+<img src="https://img.shields.io/badge/ABERTO%20A-Automa%C3%A7%C3%A3o%20e%20An%C3%A1lise%20de%20Dados-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
+
 </div>
 
 ---
@@ -67,7 +75,32 @@ Com uma sólida bagagem como **Desenvolvedor Web Freelancer**, construo Single P
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,vite,tailwind,nodejs,postgres,mongodb,aws,git,github&theme=dark&perline=7" alt="Tecnologias" />
+**Linguagens**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Linguagens" />
+
+<br/><br/>
+
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Front-end" />
+
+<br/><br/>
+
+**Back-end & Dados**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,supabase&theme=dark" alt="Back-end e Dados" />
+
+<br/><br/>
+
+**Infra & Ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vitest&theme=dark" alt="Infra e Ferramentas" />
+
+<br/><br/>
+
+**Automação & BI**<br/>
+<img src="https://img.shields.io/badge/Power_Apps-7C3AED?style=for-the-badge&logo=powerapps&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Power_Automate-8B5CF6?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/SharePoint-4F46E5?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Excel%20%2F%20VBA-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1E1B4B" />
 
 <br/>
 
@@ -79,84 +112,34 @@ Com uma sólida bagagem como **Desenvolvedor Web Freelancer**, construo Single P
 
 ## Projetos em Destaque
 
+<sub>Sistemas em produção para clientes reais. Nos prints com dados de terceiros, as informações são fictícias.</sub>
+
 </div>
 
-<details>
-<summary><b><font size="+1">Sistema de Agendamento para Barbearias (atualestilo.com)</font></b></summary>
 <br/>
 
-Aplicação web de agendamento de ponta a ponta desenvolvida para modernizar a gestão de horários e atendimento de barbearias e salões.
-
-| Tecnologias | Escala | Performance | Segurança | Impacto | Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML, CSS, JavaScript, REST API | Agendamento 24/7 | 46% de Crescimento no Volume de Clientes | Gestão Segura de Agenda | +30 agendamentos diários e redução drástica do trabalho manual | <a href="http://atualestilo.com"><img src="https://img.shields.io/badge/Acessar-Website-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a> |
-
-### Explicação do Projeto Profissional
-Desenvolvi uma aplicação web de agendamento de ponta a ponta utilizando HTML, CSS e JavaScript. O sistema impulsionou um **crescimento de 46% no volume de clientes** e gera **mais de 30 agendamentos diários**, automatizando a organização da agenda e reduzindo drasticamente o trabalho manual da equipe.
-</details>
+| Projeto | O que resolve | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Barbearia Atual Estilo** | Agendamento online: o cliente escolhe barbeiro, serviço e horário em poucos toques, e a equipe gerencia tudo num painel admin com JWT. **+46% de clientes e 30+ agendamentos por dia.** | React · PHP · MySQL · Vitest | <a href="https://atualestilo.com"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/AtualStylus_react"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Club Maravilha** | Plataforma do clube com site público, área do associado e painel da diretoria: cobrança por Pix com baixa automática, lembretes no WhatsApp, reserva de quadras sem conflito e carteirinha digital para **300+ sócios**. | React · FastAPI · PostgreSQL · Docker | <a href="https://club-maravilha.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Club_Maravilha"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Flow-Zap** | Cobrança de vendas parceladas pelo WhatsApp: lembretes automáticos antes do vencimento, carteira de quem deve e caixa do mês. **~30 parcelas cobradas por mês sem intervenção manual**, com 347 testes passando. | React · TypeScript · Node.js · Supabase | <a href="https://flowzap-seven.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo"/></a> <a href="https://github.com/SchaideNunes/FlowZap"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Milena Reis Arquitetura** | Portfólio interativo com animação 3D guiada pelo scroll, galeria arrastável, orçamento em 3 etapas direto no WhatsApp e painel para a arquiteta publicar projetos. **8 clientes fechados em 3 meses.** | JavaScript · GSAP · Tailwind · Vercel Functions | <a href="https://portifolio-milena.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Portifolio-Milena"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Cardápio Açaí no Kilo** | Cardápio digital mobile-first: o cliente monta o açaí em etapas, vê o total na hora e envia o pedido completo para o WhatsApp da loja. Painel admin para preços, estoque e pedidos. | React · TypeScript · Node.js · MongoDB | <a href="https://cardapio-acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/CardapioAcaiNoKilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Açaí no Kilo — Franquias** | Landing page para captar franqueados: números da marca, formatos de loja e formulário que leva o lead ao WhatsApp da expansão, com animação de 120 quadros guiada pelo scroll. | React · TypeScript · GSAP · Tailwind | <a href="https://acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Acai-no-Kilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 
 <br/>
 
 <details>
-<summary><b><font size="+1">Portfólio e Gestão para Arquiteta (milenareis-fbff1.web.app)</font></b></summary>
+<summary><b>Outros projetos e estudos</b></summary>
 <br/>
 
-Portfólio web profissional integrado a uma planilha automatizada que organiza e gerencia todos os negócios fechados através do site.
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **CineCariri** | Sistema de reserva de cinema (desafio do roadmap.sh) com autenticação por papéis, sessões, reserva de assentos com controle de concorrência e relatórios. | FastAPI · PostgreSQL · SQLAlchemy · React | <a href="https://github.com/SchaideNunes/CineCariri"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Porquinho WhatsApp** | Bot de finanças pessoais na API oficial do WhatsApp (Meta Cloud API): registra gastos e entradas por mensagem e gera o relatório do mês. | Python · FastAPI · Supabase | <a href="https://github.com/SchaideNunes/PorquinhoWhatsapp"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Meu Portfólio** | Portfólio pessoal bilíngue com cena 3D, galerias de projetos e animações. | React · Three.js · Framer Motion · GSAP | <a href="https://github.com/SchaideNunes/My-Portifolio"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **LinkTree Natan** | Página de links mobile-first com aviso para navegadores in-app, compartilhamento nativo e sanitização de links, coberta por testes. | HTML · CSS · JavaScript | <a href="https://github.com/SchaideNunes/LinkTreeNatan"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 
-| Tecnologias | Escala | Performance | Segurança | Impacto | Link |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| HTML5, CSS3, JavaScript, Planilhas Automatizadas | Gestão de Negócios e Leads | Carregamento Otimizado | Integração em Tempo Real | Simplificou a captação de clientes e o controle de contatos | <a href="https://milenareis-fbff1.web.app"><img src="https://img.shields.io/badge/Acessar-Website-6D28D9?style=flat-square&logo=googlechrome&logoColor=white" alt="Web"/></a> |
-
-### Explicação do Projeto Profissional
-Criei um portfólio web profissional integrado a uma planilha automatizada que organiza e gerencia todos os negócios fechados através do site, simplificando a captação de clientes e o controle de contatos.
-</details>
-
-<br/>
-
-<details>
-<summary><b><font size="+1">Gestão de Programações e Aderências (Sistema Corporativo CMOC)</font></b></summary>
-<br/>
-
-Sistema de gestão corporativa de nível empresarial desenvolvido do zero para automatizar fluxos de trabalho operacionais de PPCM (Planejamento, Programação e Controle de Manutenção) industrial.
-
-| Tecnologias | Escala | Performance | Segurança | Impacto | Repositório |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Power Apps, Power Automate, SharePoint, Python, Excel/VBA | Equipe Corporativa PPCM | 100% de Eliminação do Controle Manual | Microsoft 365 RBAC & Azure AD | Agendamento industrial e relatórios de rotina automatizados | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/Corporativo-Estudo%20de%20Caso-6D28D9?style=flat-square&logo=microsoft&logoColor=white" alt="Repo"/></a> |
-
-### Explicação do Projeto Profissional
-Desenvolvi do zero o sistema corporativo "Gestão de Programações e Aderências" utilizando Power Apps e Power Automate, identificando ineficiências operacionais e automatizando o acompanhamento de aderência da equipe de PPCM, eliminando completamente o controle manual em planilhas fragmentadas.
-</details>
-
-<br/>
-
-<details>
-<summary><b><font size="+1">Dashboard Estratégico de Inteligência de Capex e Orçamento</font></b></summary>
-<br/>
-
-Uma suíte analítica avançada de Business Intelligence desenvolvida para acompanhamento em tempo real, previsão e consolidação de despesas de capital (Capex) e orçamentos departamentais.
-
-| Tecnologias | Escala | Performance | Segurança | Impacto | Repositório |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Power BI, DAX, Power Query, Python, Excel | Orçamentos Multidepartamentais | Atualização Visual Interativa Instantânea | Segurança em Nível de Linha (RLS) | Possibilitou decisões executivas de orçamento baseadas em dados | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/Portf%C3%B3lio-Ver%20An%C3%A1lises-4F46E5?style=flat-square&logo=powerbi&logoColor=white" alt="Repo"/></a> |
-
-### Explicação do Projeto Profissional
-Criei dashboards estratégicos de Capex e Orçamentos no Power BI utilizando DAX e Power Query, consolidando dados financeiros de múltiplos centros de custo e reduzindo o tempo de preparação de relatórios mensais em mais de 80%.
-</details>
-
-<br/>
-
-<details>
-<summary><b><font size="+1">Suíte de Sincronização de Centros de Custo em Python e VBA</font></b></summary>
-<br/>
-
-Um conjunto de scripts de automação de processos robóticos (RPA) projetado para sincronizar planilhas de centros de custo e gerar relatórios automáticos de controle em departamentos corporativos.
-
-| Tecnologias | Escala | Performance | Segurança | Impacto | Repositório |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| Python, Pandas, VBA, Excel, Power Automate | Execução Diária Multidepartamental | Tempo de Rotina Manual Reduzido em 85% | Execução Local Criptografada e Logs de Auditoria | Alcançou sincronização de dados com zero erro nas operações de mineração | <a href="https://github.com/SchaideNunes"><img src="https://img.shields.io/badge/GitHub-Ver%20C%C3%B3digo-8B5CF6?style=flat-square&logo=github&logoColor=white" alt="Repo"/></a> |
-
-### Explicação do Projeto Profissional
-Automatizei a sincronização de planilhas de Centro de Custo entre múltiplas áreas da empresa e desenvolvi rotinas automáticas de relatórios com Python, Power Automate e Excel/VBA, garantindo integridade de dados e zero divergência operacional.
 </details>
 
 ---
@@ -167,78 +150,54 @@ Automatizei a sincronização de planilhas de Centro de Custo entre múltiplas �
 
 </div>
 
-### **Estagiário de Engenharia de Software**  
-**CMOC** | *mar/2025 – Presente*  
+### **Estagiário de Engenharia de Software**
+**Setor de Mineração** | *mar/2025 – Presente*
 
 Identifiquei e implementei soluções tecnológicas para a equipe de PPCM por iniciativa própria, automatizando processos operacionais que antes eram feitos manualmente:
 
-* **Desenvolvi do zero** o sistema corporativo "Gestão de Programações e Aderências" utilizando Power Apps e Power Automate.
-* **Automatizei relatórios** e rotinas de controle da equipe com Python, Power Automate e Excel/VBA.
-* **Criei dashboards estratégicos** de Capex e Orçamentos no Power BI utilizando DAX e Power Query.
-* **Automatizei a sincronização** de planilhas de Centro de Custo entre múltiplas áreas da empresa.
+* **Desenvolvi do zero** o sistema corporativo "Gestão de Programações e Aderências" com Power Apps e Power Automate.
+* **Criei o app "Gestão de Ações"**, que substituiu agendas pessoais e planilhas no controle de pendências da equipe: quadro Kanban, alertas de prazo, histórico de alterações e aprovação de mudanças críticas por cartões no Microsoft Teams.
+* **Criei dashboards estratégicos** de Capex e Orçamentos no Power BI com DAX e Power Query.
+* **Automatizei relatórios** e rotinas de controle da equipe, e a sincronização de planilhas de Centro de Custo entre várias áreas, com Python, Power Automate e Excel/VBA.
 
 <p>
   <img src="https://img.shields.io/badge/Power_Apps-7C3AED?style=flat-square&logo=powerapps&logoColor=white&labelColor=1E1B4B" />
   <img src="https://img.shields.io/badge/Power_Automate-8B5CF6?style=flat-square&logo=powerautomate&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white&labelColor=1E1B4B" />
   <img src="https://img.shields.io/badge/Power_BI-4F46E5?style=flat-square&logo=powerbi&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/VBA%20%2F%20Excel-7C3AED?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/SQL-8B5CF6?style=flat-square&logo=postgresql&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/SharePoint-6D28D9?style=flat-square&logo=microsoftsharepoint&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/VBA%20%2F%20Excel-8B5CF6?style=flat-square&logo=microsoftexcel&logoColor=white&labelColor=1E1B4B" />
 </p>
 
 <br/>
 
-### **Desenvolvedor Web Freelancer**  
-**Autônomo / Freelance** | *2023 – Presente*  
+### **Desenvolvedor Web Full-Stack Freelancer**
+**Autônomo** | *2023 – Presente*
 
-Em parceria com diversos clientes comerciais para arquitetar, projetar e implementar aplicações web modernas, sistemas interativos de agendamento e portfólios digitais profissionais.
+Projeto, desenvolvo e coloco no ar sistemas web para pequenos negócios da região, do levantamento com o cliente ao deploy:
 
-* **Desenvolvi sistemas web de ponta a ponta**, como o Sistema de Agendamento para Barbearias (`atualestilo.com`), gerando crescimento de 46% no volume de clientes e mais de 30 agendamentos diários.
-* **Criei plataformas profissionais integradas**, como o Portfólio e Gestão para Arquiteta (`milenareis-fbff1.web.app`), automatizando a captação e o controle de leads.
-* **Apliquei arquiteturas modernas** (REST e MVC) utilizando HTML5, CSS3, JavaScript, TypeScript e React, garantindo alta acessibilidade e performance mobile-first.
-* **Implementei pipelines** de deploy contínuo e hospedagem em nuvem através de plataformas modernas como Netlify e Vercel.
+* **Sistemas de gestão** com painel administrativo, autenticação e integração com WhatsApp e Pix — Barbearia Atual Estilo, Club Maravilha e Flow-Zap.
+* **Sites e landing pages de conversão** com animações guiadas pelo scroll — Milena Reis Arquitetura e Açaí no Kilo.
+* **Qualidade de entrega**: TDD com Vitest e Pytest, arquitetura REST/MVC, design mobile-first e deploy contínuo na Vercel.
 
 <p>
   <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white&labelColor=1E1B4B" />
   <img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Vite-8B5CF6?style=flat-square&logo=vite&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-6D28D9?style=flat-square&logo=html5&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Git%20%2F%20GitHub-4F46E5?style=flat-square&logo=git&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/PHP-6D28D9?style=flat-square&logo=php&logoColor=white&labelColor=1E1B4B" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20MySQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white&labelColor=1E1B4B" />
 </p>
 
 <br/>
 
-### **Jovem Aprendiz**  
-**EquinoxGold** | *2024 – 2025*  
+### **Jovem Aprendiz**
+**EquinoxGold** | *2024 – 2025*
 
-Minha primeira experiência em ambiente corporativo no setor de mineração, onde desenvolvi disciplina, responsabilidade e as bases do trabalho em equipe:
+Minha primeira experiência em ambiente corporativo, no setor de mineração, onde desenvolvi disciplina, responsabilidade e as bases do trabalho em equipe:
 
 * **Atuei em rotinas administrativas** e operacionais, adquirindo visão dos processos industriais do setor.
 * **Participei de atividades práticas** que consolidaram habilidades de comunicação e organização profissional.
-
-<p>
-  <img src="https://img.shields.io/badge/Opera%C3%A7%C3%B5es_Corporativas-7C3AED?style=flat-square&logo=microsoftoffice&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Trabalho%20em%20Equipe%20e%20Comunica%C3%A7%C3%A3o-8B5CF6?style=flat-square&logo=microsoftteams&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Processos_Industriais-6D28D9?style=flat-square&logo=epicgames&logoColor=white&labelColor=1E1B4B" />
-</p>
-
----
-
-<div align="center">
-
-## Conquistas e Reconhecimentos
-
-<br/>
-
-| Reconhecimento | Detalhes e Impacto |
-| :---: | :--- |
-| **Inovação Corporativa Proativa @ CMOC** | Identifiquei ineficiências operacionais na equipe de engenharia do PPCM e desenvolvi autonomamente o sistema "Gestão de Programações" do zero, sem demanda prévia. |
-| **Eficiência Operacional & Excelência em RPA** | Automatizei relatórios críticos da equipe e a sincronização de planilhas utilizando Python e Power Automate, eliminando erros de cálculo manual e economizando dezenas de horas mensais. |
-| **Destaque Acadêmico em Engenharia de Software** | Mantive um excelente rendimento acadêmico em Engenharia de Software na UNIASSELVI, aplicando perfeitamente a programação orientada a objetos teórica e arquitetura de sistemas a desafios industriais reais. |
-| **Entrega Digital Freelance de Sucesso** | Projetei e implementei aplicações web full-stack responsivas e sistemas de agendamento para clientes reais, demonstrando forte iniciativa empreendedora e habilidades de desenvolvimento de ciclo completo. |
-
-</div>
 
 ---
 
@@ -250,12 +209,15 @@ Minha primeira experiência em ambiente corporativo no setor de mineração, ond
 
 ```yaml
 foco_atual:
-  status_academico:
-    - Estudante do 4º semestre de Engenharia de Software
-  aprimorando_tecnologias_full_stack:
-    - HTML, CSS, React
-    - Python, Node.js
+  academico:
+    - Engenharia de Software — 4º semestre
+  estudando:
+    - Next.js com Supabase
+    - IA aplicada (LLMs e RAG)
     - AWS
+  praticando:
+    - TDD e Conventional Commits em todos os projetos
+    - Monorepos com pnpm workspaces
 ```
 
 ---
