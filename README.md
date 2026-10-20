@@ -55,12 +55,6 @@ No dia a dia trabalho com **React, TypeScript, Node.js, Python/FastAPI, PHP e ba
 
 <div align="center">
 
-| <h3>+46%</h3> | <h3>30+</h3> | <h3>300+</h3> | <h3>8</h3> |
-| :---: | :---: | :---: | :---: |
-| clientes na barbearia após o sistema de agendamento | agendamentos automáticos por dia | sócios atendidos pela plataforma do Club Maravilha | clientes fechados pela arquiteta em 3 meses com o novo portfólio |
-
-<br/>
-
 <img src="https://img.shields.io/badge/ABERTO%20A-Est%C3%A1gio%20e%20J%C3%BAnior%20em%20Engenharia%20de%20Software-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
 <img src="https://img.shields.io/badge/ABERTO%20A-Projetos%20Freelance%20Full--Stack-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
 <img src="https://img.shields.io/badge/ABERTO%20A-Automa%C3%A7%C3%A3o%20e%20An%C3%A1lise%20de%20Dados-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
@@ -110,42 +104,6 @@ No dia a dia trabalho com **React, TypeScript, Node.js, Python/FastAPI, PHP e ba
 
 <div align="center">
 
-## Projetos em Destaque
-
-<sub>Sistemas em produção para clientes reais. Nos prints com dados de terceiros, as informações são fictícias.</sub>
-
-</div>
-
-<br/>
-
-| Projeto | O que resolve | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **Barbearia Atual Estilo** | Agendamento online: o cliente escolhe barbeiro, serviço e horário em poucos toques, e a equipe gerencia tudo num painel admin com JWT. **+46% de clientes e 30+ agendamentos por dia.** | React · PHP · MySQL · Vitest | <a href="https://atualestilo.com"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/AtualStylus_react"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Club Maravilha** | Plataforma do clube com site público, área do associado e painel da diretoria: cobrança por Pix com baixa automática, lembretes no WhatsApp, reserva de quadras sem conflito e carteirinha digital para **300+ sócios**. | React · FastAPI · PostgreSQL · Docker | <a href="https://club-maravilha.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Club_Maravilha"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Flow-Zap** | Cobrança de vendas parceladas pelo WhatsApp: lembretes automáticos antes do vencimento, carteira de quem deve e caixa do mês. **~30 parcelas cobradas por mês sem intervenção manual**, com 347 testes passando. | React · TypeScript · Node.js · Supabase | <a href="https://flowzap-seven.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo"/></a> <a href="https://github.com/SchaideNunes/FlowZap"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Milena Reis Arquitetura** | Portfólio interativo com animação 3D guiada pelo scroll, galeria arrastável, orçamento em 3 etapas direto no WhatsApp e painel para a arquiteta publicar projetos. **8 clientes fechados em 3 meses.** | JavaScript · GSAP · Tailwind · Vercel Functions | <a href="https://portifolio-milena.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Portifolio-Milena"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Cardápio Açaí no Kilo** | Cardápio digital mobile-first: o cliente monta o açaí em etapas, vê o total na hora e envia o pedido completo para o WhatsApp da loja. Painel admin para preços, estoque e pedidos. | React · TypeScript · Node.js · MongoDB | <a href="https://cardapio-acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/CardapioAcaiNoKilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Açaí no Kilo — Franquias** | Landing page para captar franqueados: números da marca, formatos de loja e formulário que leva o lead ao WhatsApp da expansão, com animação de 120 quadros guiada pelo scroll. | React · TypeScript · GSAP · Tailwind | <a href="https://acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Acai-no-Kilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-
-<br/>
-
-<details>
-<summary><b>Outros projetos e estudos</b></summary>
-<br/>
-
-| Projeto | Descrição | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| **CineCariri** | Sistema de reserva de cinema (desafio do roadmap.sh) com autenticação por papéis, sessões, reserva de assentos com controle de concorrência e relatórios. | FastAPI · PostgreSQL · SQLAlchemy · React | <a href="https://github.com/SchaideNunes/CineCariri"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Porquinho WhatsApp** | Bot de finanças pessoais na API oficial do WhatsApp (Meta Cloud API): registra gastos e entradas por mensagem e gera o relatório do mês. | Python · FastAPI · Supabase | <a href="https://github.com/SchaideNunes/PorquinhoWhatsapp"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Meu Portfólio** | Portfólio pessoal bilíngue com cena 3D, galerias de projetos e animações. | React · Three.js · Framer Motion · GSAP | <a href="https://github.com/SchaideNunes/My-Portifolio"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **LinkTree Natan** | Página de links mobile-first com aviso para navegadores in-app, compartilhamento nativo e sanitização de links, coberta por testes. | HTML · CSS · JavaScript | <a href="https://github.com/SchaideNunes/LinkTreeNatan"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-
-</details>
-
----
-
-<div align="center">
-
 ## Experiência Profissional
 
 </div>
@@ -176,8 +134,17 @@ Identifiquei e implementei soluções tecnológicas para a equipe de PPCM por in
 
 Projeto, desenvolvo e coloco no ar sistemas web para pequenos negócios da região, do levantamento com o cliente ao deploy:
 
-* **Sistemas de gestão** com painel administrativo, autenticação e integração com WhatsApp e Pix — Barbearia Atual Estilo, Club Maravilha e Flow-Zap.
-* **Sites e landing pages de conversão** com animações guiadas pelo scroll — Milena Reis Arquitetura e Açaí no Kilo.
+| Projeto | O que resolve | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Barbearia Atual Estilo** | Agendamento online: o cliente escolhe barbeiro, serviço e horário em poucos toques, e a equipe gerencia tudo num painel admin com JWT. **+46% de clientes e 30+ agendamentos por dia.** | React · PHP · MySQL · Vitest | <a href="https://atualestilo.com"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/AtualStylus_react"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Club Maravilha** | Plataforma do clube com site público, área do associado e painel da diretoria: cobrança por Pix com baixa automática, lembretes no WhatsApp, reserva de quadras sem conflito e carteirinha digital para **300+ sócios**. | React · FastAPI · PostgreSQL · Docker | <a href="https://club-maravilha.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Club_Maravilha"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Flow-Zap** | Cobrança de vendas parceladas pelo WhatsApp: lembretes automáticos antes do vencimento, carteira de quem deve e caixa do mês. **~30 parcelas cobradas por mês sem intervenção manual**, com 347 testes passando. | React · TypeScript · Node.js · Supabase | <a href="https://flowzap-seven.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo"/></a> <a href="https://github.com/SchaideNunes/FlowZap"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Milena Reis Arquitetura** | Portfólio interativo com animação 3D guiada pelo scroll, galeria arrastável, orçamento em 3 etapas direto no WhatsApp e painel para a arquiteta publicar projetos. **8 clientes fechados em 3 meses.** | JavaScript · GSAP · Tailwind · Vercel Functions | <a href="https://portifolio-milena.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Portifolio-Milena"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Cardápio Açaí no Kilo** | Cardápio digital mobile-first: o cliente monta o açaí em etapas, vê o total na hora e envia o pedido completo para o WhatsApp da loja. Painel admin para preços, estoque e pedidos. | React · TypeScript · Node.js · MongoDB | <a href="https://cardapio-acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/CardapioAcaiNoKilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Açaí no Kilo — Franquias** | Landing page para captar franqueados: números da marca, formatos de loja e formulário que leva o lead ao WhatsApp da expansão, com animação de 120 quadros guiada pelo scroll. | React · TypeScript · GSAP · Tailwind | <a href="https://acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Acai-no-Kilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+
+<sub>Nos prints com dados de terceiros, as informações são fictícias.</sub>
+
 * **Qualidade de entrega**: TDD com Vitest e Pytest, arquitetura REST/MVC, design mobile-first e deploy contínuo na Vercel.
 
 <p>
@@ -198,6 +165,21 @@ Minha primeira experiência em ambiente corporativo, no setor de mineração, on
 
 * **Atuei em rotinas administrativas** e operacionais, adquirindo visão dos processos industriais do setor.
 * **Participei de atividades práticas** que consolidaram habilidades de comunicação e organização profissional.
+
+---
+
+<div align="center">
+
+## Projetos Pessoais e Estudos
+
+</div>
+
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :---: |
+| **CineCariri** | Sistema de reserva de cinema (desafio do roadmap.sh) com autenticação por papéis, sessões, reserva de assentos com controle de concorrência e relatórios. | FastAPI · PostgreSQL · SQLAlchemy · React | <a href="https://github.com/SchaideNunes/CineCariri"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Porquinho WhatsApp** | Bot de finanças pessoais na API oficial do WhatsApp (Meta Cloud API): registra gastos e entradas por mensagem e gera o relatório do mês. | Python · FastAPI · Supabase | <a href="https://github.com/SchaideNunes/PorquinhoWhatsapp"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Meu Portfólio** | Portfólio pessoal bilíngue com cena 3D, galerias de projetos e animações. | React · Three.js · Framer Motion · GSAP | <a href="https://github.com/SchaideNunes/My-Portifolio"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **LinkTree Natan** | Página de links mobile-first com aviso para navegadores in-app, compartilhamento nativo e sanitização de links, coberta por testes. | HTML · CSS · JavaScript | <a href="https://github.com/SchaideNunes/LinkTreeNatan"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 
 ---
 
