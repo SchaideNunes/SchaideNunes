@@ -28,6 +28,14 @@
 <br/>
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SchaideNunes&background=0D1117&border=7C3AED&ring=8B5CF6&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=9CA3AF&stroke=1E1B4B&hide_border=true&locale=pt_BR">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SchaideNunes&background=FFFFFF&border=7C3AED&ring=7C3AED&fire=8B5CF6&currStreakNum=1E1B4B&sideNums=1E1B4B&currStreakLabel=7C3AED&sideLabels=6D28D9&dates=6B7280&stroke=E5E7EB&hide_border=true&locale=pt_BR">
+  <img alt="Sequência de contribuições no GitHub" src="https://streak-stats.demolab.com?user=SchaideNunes&background=0D1117&border=7C3AED&ring=8B5CF6&fire=C084FC&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=C084FC&sideLabels=C4B5FD&dates=9CA3AF&stroke=1E1B4B&hide_border=true&locale=pt_BR" />
+</picture>
+
+<br/><br/>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake.svg">
   <img alt="Gráfico de Contribuições do GitHub Animado" src="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/github-contribution-grid-snake.svg" width="95%">
@@ -218,6 +226,36 @@ foco_atual:
 <br/><br/>
 
 </div>
+
+---
+
+<details>
+<summary><b>🎮 Minhas contribuições em modo fliperama</b></summary>
+<br/>
+
+<div align="center">
+
+**Galaga**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/galaga-contribution-graph.svg">
+  <img alt="Galaga com as contribuições do GitHub" src="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/galaga-contribution-graph.svg" width="95%">
+</picture>
+
+<br/><br/>
+
+**Bomberman**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/bomberman-contribution-graph.svg">
+  <img alt="Bomberman com as contribuições do GitHub" src="https://raw.githubusercontent.com/SchaideNunes/SchaideNunes/output/bomberman-contribution-graph.svg" width="95%">
+</picture>
+
+</div>
+
+</details>
 
 ---
 

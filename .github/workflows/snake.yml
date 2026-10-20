@@ -1,10 +1,10 @@
-name: Generate Snake Animation
+name: Generate Contribution Animations
 
 on:
   # Executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 0 * * *" 
-  
+    - cron: "0 0 * * *"
+
   # Permite rodar o script manualmente sempre que quiser
   workflow_dispatch:
 
@@ -15,25 +15,33 @@ on:
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
 
     steps:
-      # Gera a animação no formato SVG (Claro e Escuro)
+      # Gera a animação da cobrinha em roxo (Claro e Escuro)
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#7C3AED&color_dots=#ebedf0,#ddd6fe,#c4b5fd,#a78bfa,#7c3aed
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#C084FC&color_dots=#161b22,#2e1065,#5b21b6,#7c3aed,#c084fc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Envia os arquivos gerados para uma branch separada chamada "output"
-      - name: Push github-contribution-grid-snake.svg to the output branch
+      # Gera os jogos Galaga e Bomberman (Claro e Escuro) na mesma pasta dist
+      - name: Generate arcade contribution graphs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'galaga,bomberman'
+
+      # Envia todos os arquivos gerados para a branch "output"
+      # (um único envio, para um gráfico não apagar o outro)
+      - name: Push generated SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
