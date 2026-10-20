@@ -65,45 +65,6 @@ No dia a dia trabalho com **React, TypeScript, Node.js, Python/FastAPI, PHP e ba
 
 <div align="center">
 
-## Tecnologias
-
-<br/>
-
-**Linguagens**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Linguagens" />
-
-<br/><br/>
-
-**Front-end**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Front-end" />
-
-<br/><br/>
-
-**Back-end & Dados**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,supabase&theme=dark" alt="Back-end e Dados" />
-
-<br/><br/>
-
-**Infra & Ferramentas**<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vitest&theme=dark" alt="Infra e Ferramentas" />
-
-<br/><br/>
-
-**Automação & BI**<br/>
-<img src="https://img.shields.io/badge/Power_Apps-7C3AED?style=for-the-badge&logo=powerapps&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/Power_Automate-8B5CF6?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/SharePoint-4F46E5?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&labelColor=1E1B4B" />
-<img src="https://img.shields.io/badge/Excel%20%2F%20VBA-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1E1B4B" />
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
 ## Experiência Profissional
 
 </div>
@@ -180,6 +141,45 @@ Minha primeira experiência em ambiente corporativo, no setor de mineração, on
 | **Porquinho WhatsApp** | Bot de finanças pessoais na API oficial do WhatsApp (Meta Cloud API): registra gastos e entradas por mensagem e gera o relatório do mês. | Python · FastAPI · Supabase | <a href="https://github.com/SchaideNunes/PorquinhoWhatsapp"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **Meu Portfólio** | Portfólio pessoal bilíngue com cena 3D, galerias de projetos e animações. | React · Three.js · Framer Motion · GSAP | <a href="https://github.com/SchaideNunes/My-Portifolio"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **LinkTree Natan** | Página de links mobile-first com aviso para navegadores in-app, compartilhamento nativo e sanitização de links, coberta por testes. | HTML · CSS · JavaScript | <a href="https://github.com/SchaideNunes/LinkTreeNatan"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+
+---
+
+<div align="center">
+
+## Tecnologias
+
+<br/>
+
+**Linguagens**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Linguagens" />
+
+<br/><br/>
+
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Front-end" />
+
+<br/><br/>
+
+**Back-end & Dados**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,supabase&theme=dark" alt="Back-end e Dados" />
+
+<br/><br/>
+
+**Infra & Ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vitest&theme=dark" alt="Infra e Ferramentas" />
+
+<br/><br/>
+
+**Automação & BI**<br/>
+<img src="https://img.shields.io/badge/Power_Apps-7C3AED?style=for-the-badge&logo=powerapps&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Power_Automate-8B5CF6?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Power_BI-6D28D9?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/SharePoint-4F46E5?style=for-the-badge&logo=microsoftsharepoint&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Excel%20%2F%20VBA-7C3AED?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1E1B4B" />
+
+<br/>
+
+</div>
 
 ---
 
