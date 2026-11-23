@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+Schaide+Nunes+aqui;Desenvolvedor;Engenheiro+de+Software;Web+Designer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Ol%C3%A1,+Schaide+Nunes+aqui;Desenvolvedor+Backend;Java+%C2%B7+Spring+Boot+%C2%B7+AWS;Estudante+de+Engenharia+de+Software" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -53,19 +53,21 @@
 
 </div>
 
-Sou estudante do **4º semestre de Engenharia de Software** e desenvolvedor full-stack freelancer em Barrocas, Bahia. Construo sistemas sob medida para pequenos negócios — agendamento, cobrança, cardápio digital, gestão de associados — que resolvem um problema real do cliente e rodam em produção todos os dias.
+Sou **desenvolvedor backend com foco em Java e Spring Boot**, estudante do **4º semestre de Engenharia de Software** e **Estagiário de Engenharia de Software** no setor de mineração, em Barrocas, Bahia.
 
-Como **Estagiário de Engenharia de Software** no setor de mineração, identifico gargalos na equipe de PPCM e automatizo por iniciativa própria o que antes era feito à mão, com **Power Apps, Power Automate, Power BI, Python e Excel/VBA**.
+Desde 2023, desenvolvo como freelancer sistemas que rodam em produção para pequenos negócios: cobrança por Pix com baixa automática, lembretes no WhatsApp, agendamentos e gestão de associados. Hoje estou migrando o backend do **Club Maravilha** (300+ sócios) de Python/FastAPI para **Java/Spring Boot**, rota por rota e sem tirar o sistema do ar (padrão Strangler Fig), com Flyway e quality gates no CI.
 
-No dia a dia trabalho com **React, TypeScript, Node.js, Python/FastAPI, PHP e bancos SQL/NoSQL**, com atenção a testes (TDD com Vitest e Pytest), arquitetura REST/MVC e interfaces limpas e responsivas.
+No estágio, automatizo processos da equipe de PPCM com regras de negócio, fluxos de aprovação, trilha de auditoria e integrações entre áreas, usando Power Platform, Python e Power BI.
+
+**Stack principal:** Java 17/21 · Spring Boot · APIs REST · SQL/PostgreSQL · NoSQL · AWS · Docker · GitHub Actions · JUnit · SonarQube<br/>
+**Também uso:** Python/FastAPI · TypeScript · Node.js · React · Power Platform
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ABERTO%20A-Est%C3%A1gio%20e%20J%C3%BAnior%20em%20Engenharia%20de%20Software-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
-<img src="https://img.shields.io/badge/ABERTO%20A-Projetos%20Freelance%20Full--Stack-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
-<img src="https://img.shields.io/badge/ABERTO%20A-Automa%C3%A7%C3%A3o%20e%20An%C3%A1lise%20de%20Dados-4F46E5?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=0F0F1A" alt="Open To Automation" />
+<img src="https://img.shields.io/badge/ABERTO%20A-Est%C3%A1gio%20e%20J%C3%BAnior%20em%20Backend%20(Java)-7C3AED?style=for-the-badge&logo=target&logoColor=white&labelColor=0F0F1A" alt="Open To Roles" />
+<img src="https://img.shields.io/badge/ABERTO%20A-Projetos%20Freelance-6D28D9?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0F0F1A" alt="Open To Freelance" />
 
 </div>
 
@@ -83,7 +85,7 @@ No dia a dia trabalho com **React, TypeScript, Node.js, Python/FastAPI, PHP e ba
 Identifiquei e implementei soluções tecnológicas para a equipe de PPCM por iniciativa própria, automatizando processos operacionais que antes eram feitos manualmente:
 
 * **Desenvolvi do zero** o sistema corporativo "Gestão de Programações e Aderências" com Power Apps e Power Automate.
-* **Criei o app "Gestão de Ações"**, que substituiu agendas pessoais e planilhas no controle de pendências da equipe: quadro Kanban, alertas de prazo, histórico de alterações e aprovação de mudanças críticas por cartões no Microsoft Teams.
+* **Criei o app "Gestão de Ações"**, que substituiu agendas pessoais e planilhas no controle de pendências da equipe: quadro Kanban, alertas de prazo, histórico de alterações e aprovação de mudanças críticas por cartões no Microsoft Teams. Um único fluxo idempotente aplica as decisões e grava a auditoria.
 * **Criei dashboards estratégicos** de Capex e Orçamentos no Power BI com DAX e Power Query.
 * **Automatizei relatórios** e rotinas de controle da equipe, e a sincronização de planilhas de Centro de Custo entre várias áreas, com Python, Power Automate e Excel/VBA.
 
@@ -98,32 +100,23 @@ Identifiquei e implementei soluções tecnológicas para a equipe de PPCM por in
 
 <br/>
 
-### **Desenvolvedor Web Full-Stack Freelancer**
+### **Desenvolvedor Freelancer (Backend e Full-Stack)**
 **Autônomo** | *2023 – Presente*
 
 Projeto, desenvolvo e coloco no ar sistemas web para pequenos negócios da região, do levantamento com o cliente ao deploy:
 
 | Projeto | O que resolve | Stack | Links |
 | :--- | :--- | :--- | :---: |
+| **Club Maravilha** | Plataforma do clube com site público, área do associado e painel da diretoria: cobrança por Pix com baixa automática, lembretes no WhatsApp, reserva de quadras sem conflito e carteirinha digital para **300+ sócios**. Backend em migração para Java/Spring Boot. | FastAPI → Spring Boot · PostgreSQL · Docker · React | <a href="https://club-maravilha.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Club_Maravilha"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **Barbearia Atual Estilo** | Agendamento online: o cliente escolhe barbeiro, serviço e horário em poucos toques, e a equipe gerencia tudo num painel admin com JWT. **+46% de clientes e 30+ agendamentos por dia.** | React · PHP · MySQL · Vitest | <a href="https://atualestilo.com"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/AtualStylus_react"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Club Maravilha** | Plataforma do clube com site público, área do associado e painel da diretoria: cobrança por Pix com baixa automática, lembretes no WhatsApp, reserva de quadras sem conflito e carteirinha digital para **300+ sócios**. | React · FastAPI · PostgreSQL · Docker | <a href="https://club-maravilha.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Club_Maravilha"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Flow-Zap** | Cobrança de vendas parceladas pelo WhatsApp: lembretes automáticos antes do vencimento, carteira de quem deve e caixa do mês. **~30 parcelas cobradas por mês sem intervenção manual**, com 347 testes passando. | React · TypeScript · Node.js · Supabase | <a href="https://flowzap-seven.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo"/></a> <a href="https://github.com/SchaideNunes/FlowZap"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Flow-Zap** | Cobrança de vendas parceladas pelo WhatsApp: lembretes automáticos antes do vencimento, carteira de quem deve e caixa do mês. **~30 parcelas cobradas por mês sem intervenção manual**, com 347 testes passando. | Node.js · TypeScript · Supabase · React | <a href="https://flowzap-seven.vercel.app"><img src="https://img.shields.io/badge/Demo-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Demo"/></a> <a href="https://github.com/SchaideNunes/FlowZap"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **Milena Reis Arquitetura** | Portfólio interativo com animação 3D guiada pelo scroll, galeria arrastável, orçamento em 3 etapas direto no WhatsApp e painel para a arquiteta publicar projetos. **8 clientes fechados em 3 meses.** | JavaScript · GSAP · Tailwind · Vercel Functions | <a href="https://portifolio-milena.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Portifolio-Milena"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
-| **Cardápio Açaí no Kilo** | Cardápio digital mobile-first: o cliente monta o açaí em etapas, vê o total na hora e envia o pedido completo para o WhatsApp da loja. Painel admin para preços, estoque e pedidos. | React · TypeScript · Node.js · MongoDB | <a href="https://cardapio-acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/CardapioAcaiNoKilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
+| **Cardápio Açaí no Kilo** | Cardápio digital mobile-first: o cliente monta o açaí em etapas, vê o total na hora e envia o pedido completo para o WhatsApp da loja. Painel admin para preços, estoque e pedidos. | Node.js · TypeScript · MongoDB · React | <a href="https://cardapio-acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/CardapioAcaiNoKilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **Açaí no Kilo — Franquias** | Landing page para captar franqueados: números da marca, formatos de loja e formulário que leva o lead ao WhatsApp da expansão, com animação de 120 quadros guiada pelo scroll. | React · TypeScript · GSAP · Tailwind | <a href="https://acai-no-kilo.vercel.app"><img src="https://img.shields.io/badge/Site-7C3AED?style=flat-square&logo=googlechrome&logoColor=white" alt="Site"/></a> <a href="https://github.com/SchaideNunes/Acai-no-Kilo"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 
 <sub>Nos prints com dados de terceiros, as informações são fictícias.</sub>
 
-* **Qualidade de entrega**: TDD com Vitest e Pytest, arquitetura REST/MVC, design mobile-first e deploy contínuo na Vercel.
-
-<p>
-  <img src="https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/TypeScript-4F46E5?style=flat-square&logo=typescript&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/FastAPI-8B5CF6?style=flat-square&logo=fastapi&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/PHP-6D28D9?style=flat-square&logo=php&logoColor=white&labelColor=1E1B4B" />
-  <img src="https://img.shields.io/badge/PostgreSQL%20%2F%20MySQL-4F46E5?style=flat-square&logo=postgresql&logoColor=white&labelColor=1E1B4B" />
-</p>
+* **Qualidade de entrega**: TDD com Vitest e Pytest, arquitetura REST/MVC, Docker e deploy contínuo.
 
 <br/>
 
@@ -145,6 +138,7 @@ Minha primeira experiência em ambiente corporativo, no setor de mineração, on
 
 | Projeto | Descrição | Stack | Link |
 | :--- | :--- | :--- | :---: |
+| **Club Maravilha — Backend em Java** | Migração do backend em produção de Python/FastAPI para Spring Boot sem downtime (Strangler Fig): mesmo banco e endpoints, login funcionando nos dois backends, Flyway como dono do schema e quality gate no GitHub Actions (JaCoCo 80% + SonarQube). Próximo passo: Pix e Mercado Pago com webhooks assíncronos. | Java · Spring Boot · PostgreSQL · Flyway · GitHub Actions | <img src="https://img.shields.io/badge/Em%20andamento-6D28D9?style=flat-square" alt="Em andamento"/> |
 | **CineCariri** | Sistema de reserva de cinema (desafio do roadmap.sh) com autenticação por papéis, sessões, reserva de assentos com controle de concorrência e relatórios. | FastAPI · PostgreSQL · SQLAlchemy · React | <a href="https://github.com/SchaideNunes/CineCariri"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **Porquinho WhatsApp** | Bot de finanças pessoais na API oficial do WhatsApp (Meta Cloud API): registra gastos e entradas por mensagem e gera o relatório do mês. | Python · FastAPI · Supabase | <a href="https://github.com/SchaideNunes/PorquinhoWhatsapp"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
 | **Meu Portfólio** | Portfólio pessoal bilíngue com cena 3D, galerias de projetos e animações. | React · Three.js · Framer Motion · GSAP | <a href="https://github.com/SchaideNunes/My-Portifolio"><img src="https://img.shields.io/badge/C%C3%B3digo-1E1B4B?style=flat-square&logo=github&logoColor=white" alt="Código"/></a> |
@@ -159,22 +153,36 @@ Minha primeira experiência em ambiente corporativo, no setor de mineração, on
 <br/>
 
 **Linguagens**<br/>
-<img src="https://skillicons.dev/icons?i=ts,js,py,php,html,css&theme=dark" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=java,py,ts,js,php&theme=dark" alt="Linguagens" />
+
+<br/><br/>
+
+**Back-end**<br/>
+<img src="https://skillicons.dev/icons?i=spring,maven,fastapi,nodejs,express&theme=dark" alt="Back-end" />
+
+<br/><br/>
+
+**Bancos de Dados**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase&theme=dark" alt="Bancos de Dados" />
+
+<br/><br/>
+
+**Cloud, DevOps & Ferramentas**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,git,github,vercel&theme=dark" alt="Cloud, DevOps e Ferramentas" />
+
+<br/><br/>
+
+**Testes & Qualidade**<br/>
+<img src="https://img.shields.io/badge/JUnit_5-7C3AED?style=for-the-badge&logo=junit5&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/JaCoCo-8B5CF6?style=for-the-badge&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/SonarQube-6D28D9?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Pytest-4F46E5?style=for-the-badge&logo=pytest&logoColor=white&labelColor=1E1B4B" />
+<img src="https://img.shields.io/badge/Vitest-7C3AED?style=for-the-badge&logo=vitest&logoColor=white&labelColor=1E1B4B" />
 
 <br/><br/>
 
 **Front-end**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind&theme=dark" alt="Front-end" />
-
-<br/><br/>
-
-**Back-end & Dados**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb,supabase&theme=dark" alt="Back-end e Dados" />
-
-<br/><br/>
-
-**Infra & Ferramentas**<br/>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,vitest&theme=dark" alt="Infra e Ferramentas" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark" alt="Front-end" />
 
 <br/><br/>
 
@@ -202,12 +210,15 @@ foco_atual:
   academico:
     - Engenharia de Software — 4º semestre
   estudando:
-    - Next.js com Supabase
-    - IA aplicada (LLMs e RAG)
+    - Java 17/21 e Spring Boot
+    - Mensageria (SQS, SNS, Kafka)
+    - Infraestrutura como código (Terraform)
+    - Observabilidade (Grafana, New Relic)
     - AWS
   praticando:
+    - Migração do backend do Club Maravilha para Spring Boot (Strangler Fig)
+    - Quality gates no CI (JaCoCo + SonarQube)
     - TDD e Conventional Commits em todos os projetos
-    - Monorepos com pnpm workspaces
 ```
 
 ---
